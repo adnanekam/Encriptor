@@ -1,6 +1,7 @@
 print('ahhhhh')
-i = 0
-while i<10:
-    i+= 1
-    print('yay')
-   
+
+def x(i):
+    while i<10:
+        i+= 1
+        print('yay')
+x(0)
